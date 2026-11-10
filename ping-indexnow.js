@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const https = require('https');
 
-const HOST = 'baremetal-notes.pages.dev';
+const HOST = 'baremetal-notes.pageaura.xyz';
 const KEY = '2a552fab7abb4adfbdfd4ec01d784e49';
 const KEY_LOCATION = `https://baremetal-notes.pages.dev/2a552fab7abb4adfbdfd4ec01d784e49.txt`;
 
