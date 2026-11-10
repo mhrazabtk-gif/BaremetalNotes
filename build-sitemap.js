@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const DOMAIN = 'https://baremetal-notes.pages.dev';
+const DOMAIN = 'https://baremetal-notes.pageaura.xyz';
 const KEY = '2a552fab7abb4adfbdfd4ec01d784e49';
 
 const ROOT = __dirname;
